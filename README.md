@@ -1,5 +1,15 @@
-# Hi, my name is Gabriel, but you can call me potato
+# Olá :suspect:
+:sleepy: Meu nome é Gabriel Chagas da Silva, mas você pode me chamar de ***mid***
 
+:see_no_evil:Meu email é gabriel.chagasda.silva@escola.pr.gov.br
+
+:smiling_imp: Eu tenho 15 anos
+
+:skull: Eu sou estudante do ensino medio 
+
+:shipit:	Estou procurandso um trabalho para ajudar a minha familia 
+
+:trollface: No momento estou aprendo sobre progamação no Alura
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
