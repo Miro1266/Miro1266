@@ -1,5 +1,5 @@
 # Olá :suspect:
-:sleepy: Meu nome é Gabriel Chagas da Silva, mas você pode me chamar de ***mid***
+:sleepy: Meu nome é Gabriel , mas você pode me chamar de ***mid***
 
 :see_no_evil:Meu email é gabriel.chagasda.silva@escola.pr.gov.br
 
