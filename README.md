@@ -3,9 +3,9 @@
 
 :see_no_evil:Meu email é gabriel.chagasda.silva@escola.pr.gov.br
 
-:smiling_imp: Eu tenho 15 anos
+:smiling_imp: Eu tenho 16 anos
 
-:skull: Eu sou estudante do ensino medio 
+:skull: Eu sou estudante do Ensino Medio 
 
 :shipit:	Estou procurandso um trabalho para ajudar a minha familia 
 
